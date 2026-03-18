@@ -1,0 +1,17 @@
+﻿body {
+    background-color: pink;
+}
+
+li {
+    display: inline;
+    font-size: 1em;
+    margin-left: 3%;
+}
+
+header {
+    background-color: midnightblue;
+    color: whitesmoke;
+    text-align: center;
+    padding: 1em;
+}
+
